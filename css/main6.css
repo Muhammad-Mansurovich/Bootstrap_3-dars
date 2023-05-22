@@ -1,0 +1,29 @@
+.bg-blue{
+    background-color: #011627;
+}
+.Srno{
+    background-image: url("../rasmlar/Max Well.jpg");
+    background-size: cover;
+    border-radius: 50%;
+}
+.width-0{
+    width: 30px;
+}
+.width-1{
+    width: 200px;
+}
+.width-2{
+    width: 120px;
+}
+.width-3{
+    width: 100px;
+}
+.height-td{
+    height: 50px;
+}
+button{
+    height: 37px;
+}
+.height-td{
+    height: 30px;
+}

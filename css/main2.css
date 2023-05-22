@@ -1,0 +1,31 @@
+.bg-blue{
+    background-color: #b8daff;
+}
+.bg-gray{
+    background-color: #d6d8db;
+}
+.bg-green{
+    background-color: #c3e6cb;
+}
+.bg-white-blue{
+    background-color: #bee5eb;
+}
+.bg-gold{
+    background-color: #ffeeba;
+}
+.bg-red{
+    background-color: #f5c6cb;
+}
+.bg-grey{
+    background-color: #dadada;
+}
+.bg-whiter{
+    background-color: #fdfdfe;
+}
+.bg-blacker{
+    background-color: #c6c8ca;
+    color: white;
+}
+.box-shadow{
+    box-shadow: #5a6268 2px 2px 15px;
+}
